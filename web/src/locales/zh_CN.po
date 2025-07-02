@@ -4094,6 +4094,112 @@ msgstr "您确定要终止进程 %{ pid } 吗？"
 msgid "Terminate"
 msgstr "终止"
 
+# 新增的进程管理翻译
+msgid "All"
+msgstr "全部"
+
+msgid "Running"
+msgstr "运行中"
+
+msgid "List View"
+msgstr "列表视图"
+
+msgid "Tree View" 
+msgstr "树状视图"
+
+msgid "Search by PID, name or command..."
+msgstr "按PID、名称或命令搜索..."
+
+msgid "Filter by status"
+msgstr "按状态筛选"
+
+msgid "Sort by"
+msgstr "排序依据"
+
+msgid "Ascending"
+msgstr "升序"
+
+msgid "Descending"
+msgstr "降序"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Signal"
+msgstr "信号"
+
+msgid "Kill"
+msgstr "杀死"
+
+msgid "Signal sent successfully"
+msgstr "信号发送成功"
+
+msgid "Loading process tree..."
+msgstr "正在加载进程树..."
+
+msgid "No processes found"
+msgstr "未找到进程"
+
+msgid "Process Details"
+msgstr "进程详情"
+
+msgid "Loading..."
+msgstr "加载中..."
+
+msgid "Basic Info"
+msgstr "基本信息"
+
+msgid "Executable"
+msgstr "可执行文件"
+
+msgid "Working Directory"
+msgstr "工作目录"
+
+msgid "Terminal"
+msgstr "终端"
+
+msgid "Priority"
+msgstr "优先级"
+
+msgid "File Descriptors"
+msgstr "文件描述符"
+
+msgid "Resources"
+msgstr "资源"
+
+msgid "CPU Usage"
+msgstr "CPU使用率"
+
+msgid "CPU Percent"
+msgstr "CPU百分比"
+
+msgid "Memory Usage"
+msgstr "内存使用"
+
+msgid "RSS"
+msgstr "物理内存"
+
+msgid "VMS"
+msgstr "虚拟内存"
+
+msgid "Memory Percent"
+msgstr "内存百分比"
+
+msgid "Command Line"
+msgstr "命令行"
+
+msgid "Arguments"
+msgstr "参数"
+
+msgid "Child Processes"
+msgstr "子进程"
+
+msgid "Command"
+msgstr "命令"
+
 #: src/views/task/TaskView.vue:28
 msgid "Completed"
 msgstr "已完成"
